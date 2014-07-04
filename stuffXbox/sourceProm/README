@@ -1,0 +1,38 @@
+/**************************************************************************************
+AXES : 
+		  |
+	PDV	--|-->4
+		  |
+		 \|/
+		  5
+		 
+		  		
+		  |		___
+		  |		  |
+	Stick	--|-->0		  |3
+		  |		<--
+		 \|/
+		  1
+
+	Gaz	 |
+		 |
+		\|/
+		2
+
+Bouttons : 
+
+Numero du bouttons : Numero dessine sur le joystick
+	0 : gachette
+	1 : 2
+	2 : 3
+	3 : 4
+	4 : 5
+	5 : 6 
+	6 : F1
+	7 : F2
+	8 : F3
+	9 : F4
+	10 : >  : boutton affecte a l'arret d'urgence dans f_joystick 
+	11 : <  : boutton affecte a l'arret d'urgence dans f_joystick
+
+*****************************************************************************************/
